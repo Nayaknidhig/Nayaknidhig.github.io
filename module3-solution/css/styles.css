@@ -1,0 +1,35 @@
+body{
+	font-size: 16px;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav{
+	background-color:black; 
+	border-radius:0;
+	border:0;
+	color: white;
+}
+h1{
+	position:relative;
+	left: 40px;
+	padding: 25px;
+}
+h2{
+	padding: 10px 0;
+}
+li{
+	border:1px solid white;
+	font-style: italic;
+	font-weight: bold;
+
+}
+#para{
+	background-color: grey;
+	border:1px solid black;
+	color:black;
+	margin: 20px;
+}
+p{
+	padding: 20px;
+}
+
